@@ -1,6 +1,12 @@
 # NFT Sample
 
-Using [Hardhat](https://hardhat.org/getting-started/) Ethereum development environment
+ERC721 sample project using [Hardhat](https://hardhat.org/getting-started/) - Ethereum development environment - to understand how to:
+  - Write ERC721 solidity smart contract with [openzeppelin library](https://github.com/OpenZeppelin/openzeppelin-contracts)
+  - Deploy a contract on chain by [Hardhat](https://hardhat.org)
+  - Verify contract code on [explorer](https://etherscan.io/)
+  - Test a smart contract
+  - Interact a smart contract by [explorer](https://rinkeby.etherscan.io/address/0x119e1fddb712df1974766822424106d0276e9855#writeContract) and [metamask chrome extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+  - View a [minted NFT token](https://testnets.opensea.io/assets/0x119e1fddb712df1974766822424106d0276e9855/2) on opensea
 
 # Setup project with hardhat
 
